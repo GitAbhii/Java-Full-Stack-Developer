@@ -6,5 +6,5 @@
 - Finding index of element
 
 ## Programs
-- LinearSearch.java
+- LinearSearchMethod.java
 - SearchInsertPosition.java
