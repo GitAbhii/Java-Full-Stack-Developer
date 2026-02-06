@@ -1,12 +1,18 @@
-class Solution {
-    public int searchInsert(int[] nums, int target) {
+public class SearchInsertPosition {
+    public static void main(String[] args) {
+
+        int[] nums = {1, 3, 5, 6};
+        int target = 2;
+
+        int position = nums.length;
 
         for (int i = 0; i < nums.length; i++) {
             if (target <= nums[i]) {
-                return i;
+                position = i;
+                break;
             }
         }
 
-        return nums.length;
+        System.out.println("Insert Position: " + position);
     }
 }
