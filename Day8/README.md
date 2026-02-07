@@ -6,9 +6,9 @@
 - Finding index of element
 
 ## Programs
- ├── LinearSearch.java
- ├── SearchInsertPosition.java
- ├── SortArray.java
- ├── MinArray.java
- ├── CountElement.java
- └── ElementExists.java
+ ─ LinearSearch.java
+ ─ SearchInsertPosition.java
+ ─ SortArray.java
+ ─ MinArray.java
+ ─ CountElement.java
+ ─ ElementExists.java
