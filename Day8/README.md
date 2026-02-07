@@ -5,7 +5,7 @@ Topics:
 - Search Insert Position
 - Sorting using Arrays.sort()
 
-  Programs:
+Programs:
 - LinearSearch.java
 - SearchInsertPosition.java
 - SortArray.java
