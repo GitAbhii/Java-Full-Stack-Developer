@@ -1,14 +1,14 @@
-# Day 8 – Searching (Linear Search)
+# Day 8 – Searching & Sorting
 
-## Topics Covered
-- Searching in arrays
-- Linear Search concept
-- Finding index of element
+Topics:
+- Linear Search
+- Search Insert Position
+- Sorting using Arrays.sort()
 
-## Programs
- ─ LinearSearch.java
- ─ SearchInsertPosition.java
- ─ SortArray.java
- ─ MinArray.java
- ─ CountElement.java
- ─ ElementExists.java
+  Programs:
+- LinearSearch.java
+- SearchInsertPosition.java
+- SortArray.java
+- MinArray.java
+- CountElement.java
+- ElementExists.java
