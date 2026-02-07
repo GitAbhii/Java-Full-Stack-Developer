@@ -6,5 +6,9 @@
 - Finding index of element
 
 ## Programs
-- LinearSearchMethod.java
-- SearchInsertPosition.java
+ ├── LinearSearch.java
+ ├── SearchInsertPosition.java
+ ├── SortArray.java
+ ├── MinArray.java
+ ├── CountElement.java
+ └── ElementExists.java
