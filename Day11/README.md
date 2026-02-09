@@ -2,23 +2,11 @@
 - Pattern Programs
 
 ## Programs
-- Pattern1.java
-  *
-  **
-  ***
-  ****
-- Pattern2.java
-  ****
-  ***
-  **
-  *
-- Pattern3.java
-  1
-  12
-  123
-  1234
-- Pattern4.java
-  1
-  22
-  333
-  4444
+- Pattern1.java (Triangle)
+  
+- Pattern2.java(Reverse triangle)
+ 
+- Pattern3.java(Triangle using int)
+ 
+- Pattern4.java(triangle using repeated int)
+ 
