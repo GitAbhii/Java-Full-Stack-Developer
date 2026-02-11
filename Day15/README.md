@@ -6,6 +6,7 @@ This repository contains Java programs demonstrating the concept of Encapsulatio
 - Student Encapsulation
 - Bank Account Encapsulation
 - Employee Encapsulation
+- one extra program using getter and setter
 
 ## Concepts Covered
 - private variables
