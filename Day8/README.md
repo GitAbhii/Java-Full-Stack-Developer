@@ -4,6 +4,7 @@ Topics:
 - Linear Search
 - Search Insert Position
 - Sorting using Arrays.sort()
+- Binary Search
 
 Programs:
 - LinearSearch.java
@@ -12,3 +13,4 @@ Programs:
 - MinArray.java
 - CountElement.java
 - ElementExists.java
+- BinarySearch.java
