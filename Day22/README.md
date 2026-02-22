@@ -1,4 +1,4 @@
-# Day 01 - Time & Space Complexity + Recursion (Java)
+# Day 22 - Time & Space Complexity + Recursion (Java)
 
 ## 📌 Topics Covered
 - Big-O Notation
