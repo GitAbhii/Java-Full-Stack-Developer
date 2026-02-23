@@ -6,8 +6,8 @@
 - Best Time to Buy and Sell Stock
 - Product of Array Except Self
 - Merge Sorted Arrays
-
-## Focus
-- Optimize brute force
-- Reduce time complexity
-- Use patterns (Two pointer, prefix sum)
+- Bubble Sort
+- Count Occurance
+- Insertion sort
+- Move zeros
+- Selection Sort
