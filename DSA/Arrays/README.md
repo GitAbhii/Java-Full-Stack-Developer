@@ -11,6 +11,3 @@
 - Optimize brute force
 - Reduce time complexity
 - Use patterns (Two pointer, prefix sum)
-
-## Goal
-Solve 40+ Array Problems
